@@ -6,5 +6,5 @@
 5.[Lab-05](https://github.com/sumayyatas11/AIML_2024-2025-Batch11-/blob/main/Lab05_AIML.ipynb)
 6.[Lab-06](https://github.com/sumayyatas11/AIML_2024-2025-Batch11-/blob/main/Lab_06.ipynb)
 7.[Lab-07](https://github.com/sumayyatas11/AIML_2024-2025-Batch11-/blob/main/Lab07.ipynb)
-8.[Lab-08](https://github.com/sumayyatas11/AIML_2024-2025-Batch11-/blob/main/Lab_1_(2).ipynb)
+8.[Lab-08](https://github.com/sumayyatas11/AIML_2024-2025-Batch11-/blob/main/Lab_08.ipynb)
 9.[Lab-09](https://github.com/sumayyatas11/AIML_2024-2025-Batch11-/blob/main/Lab_1_(2).ipynb)
